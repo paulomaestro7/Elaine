@@ -1,0 +1,6 @@
+C:\Users\elainepelizari\source\repos\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+C:\Users\elainepelizari\source\repos\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+C:\Users\elainepelizari\source\repos\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+C:\Users\elainepelizari\source\repos\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\elainepelizari\source\repos\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+C:\Users\elainepelizari\source\repos\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb
