@@ -1,0 +1,7 @@
+C:\Users\elainepelizari\source\repos\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Users\elainepelizari\source\repos\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+C:\Users\elainepelizari\source\repos\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+C:\Users\elainepelizari\source\repos\Exercicio\Exercicio\obj\Debug\Exercicio.csprojAssemblyReference.cache
+C:\Users\elainepelizari\source\repos\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\elainepelizari\source\repos\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+C:\Users\elainepelizari\source\repos\Exercicio\Exercicio\obj\Debug\Exercicio.pdb
